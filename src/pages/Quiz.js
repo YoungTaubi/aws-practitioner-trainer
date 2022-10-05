@@ -8,6 +8,7 @@ export default function Quiz() {
 
     const postMessage = async  () => {
         await Storage.put("test.txt", "Hello");
+        console.log('test');
     }
 
     const getMessage = async  () => {

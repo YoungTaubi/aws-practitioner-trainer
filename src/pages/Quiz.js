@@ -1,4 +1,4 @@
-import { Storage } from "@aws-amplify/storage"
+// import { Storage } from "@aws-amplify/storage"
 import { useEffect, useState } from "react";
 
 export default function Quiz() {

@@ -35,11 +35,5 @@
       }
     }
   },
-  "storage": {
-    "s3awspractitionertrainerstoragebc691e5f": {
-      "service": "S3",
-      "providerPlugin": "awscloudformation",
-      "dependsOn": []
-    }
-  }
+  "storage": {}
 }
